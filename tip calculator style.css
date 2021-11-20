@@ -14,7 +14,7 @@ body {
     border-radius: 20px;
 }
 
-h1 {
+.h1 {
     position: absolute;
     left: 50%;
     top: -60px;
